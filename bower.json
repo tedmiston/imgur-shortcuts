@@ -5,7 +5,7 @@
     "Taylor Edmiston <tedmiston@gmail.com>"
   ],
   "description": "Memorable keyboard shortcuts for Imgur.",
-  "main": "README.md",
+  "main": "index.js",
   "keywords": [
     "imgur",
     "keyboard",
@@ -24,6 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "mousetrap": "~1.4.6"
+    "mousetrap": "~1.4.6",
+    "jquery": "2.1.1"
   }
 }
