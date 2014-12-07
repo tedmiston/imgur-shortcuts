@@ -6,8 +6,9 @@ Because no one really remembers the defaults (why does `0` = star?).
 
 ## What are the shortcuts?
 
-- **previous image** - `j` or `left` or `,`
-- **next image** - `k` or `right` or `.`
-- **star image** - `l` or `s` or `f`
-- **view comments on reddit** - `r` or `v`
-- **upvote** - `u`
+All highlighted shortcuts are available.  [Imgur's default shortcuts](http://imgur.com/IO1WONW) are shown in parentheses for reference.
+
+- **previous image** - `j` or `,` or (`left` by default)
+- **next image** - `k` or `.` or (`right` by default)
+- **favorite image** - `l` or `f` (`0` by default)
+- **view comments on reddit** - `r` or `v` or `c`
