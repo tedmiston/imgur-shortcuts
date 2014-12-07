@@ -1,0 +1,29 @@
+{
+  "name": "imgur-shortcut-keys",
+  "version": "0.1",
+  "authors": [
+    "Taylor Edmiston <tedmiston@gmail.com>"
+  ],
+  "description": "Memorable keyboard shortcuts for Imgur.",
+  "main": "README.md",
+  "keywords": [
+    "imgur",
+    "keyboard",
+    "shortcuts",
+    "enhancement",
+    "suite"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tedmiston",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mousetrap": "~1.4.6"
+  }
+}
