@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Imgur Keyboard Shortcuts",
+  "description": "Memorable keyboard shortcuts for Imgur.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["http://imgur.com/*"],
+      "js": [
+        "bower_components/mousetrap/mousetrap.min.js",
+        "bower_components/jquery/dist/jquery.min.js",
+        "script.js"
+      ]
+    }
+  ]
+}
