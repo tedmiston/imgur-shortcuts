@@ -9,7 +9,7 @@
       "matches": ["http://imgur.com/*"],
       "js": [
         "bower_components/mousetrap/mousetrap.min.js",
-        "bower_components/jquery/dist/jquery.min.js",
+        "bower_components/zeptojs/dist/zepto.min.js",
         "script.js"
       ]
     }
