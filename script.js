@@ -15,12 +15,10 @@ $(function(){
 
     Mousetrap.bind(['l', 'f'], function() {
       clickSelector('#under-image div.favorite-icon div.favorite-image');
-      console.log('fav');
     });
 
     Mousetrap.bind(['r', 'v', 'c'], function() {
       clickSelector('#stats-reddit');
-      console.log('reddit');
     });
   }
 
