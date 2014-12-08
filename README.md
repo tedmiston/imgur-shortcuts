@@ -4,6 +4,10 @@ Memorable keyboard shortcuts for Imgur.
 
 Because no one really remembers the defaults (why does `0` = star?).
 
+## Current Status
+
+MVP works, but only minimally tested.
+
 ## What are the shortcuts?
 
 All highlighted shortcuts are available.  [Imgur's default shortcuts](http://imgur.com/IO1WONW) are shown in parentheses for reference.
